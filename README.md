@@ -10,4 +10,4 @@ Model_InceptionV3 : Python notebook that contains the CNN model that was trained
 
 Model_Xception-Initial : Python notebook that contains the CNN model that was trained using the Xception pre-trained model (transfer learning), include the resulting model performance metrics. 
 
-Model_Xception-Final : Python notebook that contains the CNN model that was trained using the Xception pre-trained model (transfer learning) along with dropout normalization aimed at improving overfitting within the model, include the resulting model performance metrics. 
+Model_Xception-Final : Python notebook that contains the CNN model that was trained using the Xception pre-trained model (transfer learning) along with dropout normalization, include the resulting model performance metrics. 
